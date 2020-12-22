@@ -14,7 +14,7 @@ You can check if your Linux distribution uses systemd by typing:
 
 .. code-block:: console
 
-  $ systemd --version
+  $ systemctl --version
   systemd 237
   +PAM +AUDIT +SELINUX +IMA +APPARMOR +SMACK +SYSVINIT +UTMP +LIBCRYPTSETUP +GCRYPT +GNUTLS +ACL +XZ +LZ4 +SECCOMP +BLKID +ELFUTILS +KMOD -IDN2 +IDN -PCRE2 default-hierarchy=hybrid
 
